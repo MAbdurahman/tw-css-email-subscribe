@@ -1,6 +1,6 @@
 # tw-css-email-subscribe
 
-This is a simple Tailwind CSS setup to start building projects using Tailwind CLI.
+This is an application utilizing TailwindCSS.  It is a simple setup to build TailwindCSS projects and get familiarized with TailwindCSS.
 
 # To Use 
 
